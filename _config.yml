@@ -85,8 +85,7 @@ content:
         link: missouristate.edu
       - layout: top-middle
         title: Certifications
-        sub_title: Bachelor of Science, Mathematics and Computer Science
-        link: missouristate.edu
+        sub_title: PMP, ACP, CSM, CSPO, CSP, ICP-ACC, Six Sigma Green Belt
   
   - title: Prior Experience # Title for the section
     layout: list # Type of content section (list/text)
