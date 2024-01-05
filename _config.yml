@@ -48,13 +48,12 @@ about_content: | # this will include new lines to allow paragraphs
   I am battle-scarred project and engineering manager living in sunny San Diego Californnia. My path has woven back and forth between being a developer and manager multiple times. My most noteworthy accomplishments arise from unraveling complex issues and guiding teams to forge remarkable creations. I am most content when surrounded by enthusiastic and witty people, driven by a strong passion for solving problems — that's when I'm truly in my element.
 
 content:
-  - title: Experience # Title for the section
+  - title: Current Positions 
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: GitHub
         link: gitub.com
-        # link_text: github.com
         sub_title: Director of Software Engineering
         caption: April 2021 - Present
         quote: >
@@ -63,6 +62,21 @@ content:
             My team was soely responsible for delivering extremely popular features such as math rendering in github, and the ability to render mermaid diagrams. Along with these features, we embarked on a 2 year project to deprecated a neglected service that had more security vulnerabilties than a sticky note with passwords on it. 
 
             Currently my team is embedded in the Copilot organization, enabling user management and billing capabilities to businesses and individuals wanting to use the cornucopia of AI products we offer.  
+      - layout: left
+        title: University of San Deigo Extension
+        link: extendedstudies.ucsd.edu
+        sub_title: Instructor of Project Management and Agile Courses
+        caption: October 2018 - Present
+        quote: >
+          Built a team from the ground up with the prime directive of deprecating old friends and building amazing products.
+        description: | # this will include new lines to allow paragraphs
+            My team was soely responsible for delivering extremely popular features such as math rendering in github, and the ability to render mermaid diagrams. Along with these features, we embarked on a 2 year project to deprecated a neglected service that had more security vulnerabilties than a sticky note with passwords on it. 
+
+            Currently my team is embedded in the Copilot organization, enabling user management and billing capabilities to businesses and individuals wanting to use the cornucopia of AI products we offer.  
+    
+  - title: Previous Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
       - layout: top-middle
         title: GitHub
         link: gitub.com
