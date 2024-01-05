@@ -81,13 +81,17 @@ content:
     content:
       - layout: left
         title: Missouri University of Science and Technology
+        link: 
         sub_title: [mst.edu](https://www.mst.edu)
+        caption:
         quote: >
           Master of Science, Systems Engineering
         description: | # this will include new lines to allow paragraphs
       - layout: left
         title: Missouri State University
+        link:
         sub_title: [missouristate.edu](https://www.missouristate.edu) 
+        caption: May 2016 - April 2021
         quote: >
           Bachelor of Science, Mathematics and Computer Science
         description: | # this will include new lines to allow paragraphs
