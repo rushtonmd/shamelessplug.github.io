@@ -53,7 +53,7 @@ content:
     content:
       - layout: left
         title: GitHub
-        link: gitub.com
+        link: github.com
         sub_title: Director of Software Engineering
         caption: April 2021 - Present
         quote: >
@@ -76,7 +76,7 @@ content:
     content:
       - layout: top-middle
         title: GitHub
-        link: gitub.com
+        link: github.com
         sub_title: Director of Technical Program Management
         caption: May 2016 - April 2021
         quote: >
@@ -94,6 +94,14 @@ content:
         link: sony.com
         sub_title: Project Manager - Mobile
         caption: October 2013 - February 2015
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+      - layout: top-middle
+        title: General Things
+        link: https://gopro.com/en/us/
+        link_text: (acquired by GoPro)
+        sub_title: Project Manager / Engineering Manager
+        caption: August 2012 - October 2013
         quote: >
         description: | # this will include new lines to allow paragraphs
   
