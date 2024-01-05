@@ -83,9 +83,9 @@ content:
         sub_title: Master of Science, Systems Engineering
         link: mst.edu
       - layout: top-middle
-        title: Missouri University of Science and Technology
-        sub_title: Master of Science, Systems Engineering
-        link: mst.edu
+        title: Missouri State University
+        sub_title: Bachelor of Science, Mathematics and Computer Science
+        link: missouristate.edu
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
