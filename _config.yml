@@ -163,11 +163,6 @@ content:
         caption: 1998 - 2001
         quote: >
         description: | # this will include new lines to allow paragraphs
-        
-  - title: Other Fun Stuff
-    layout: list
-    content: |
-      fun things
 
 # Footer
 footer_show_references: true
