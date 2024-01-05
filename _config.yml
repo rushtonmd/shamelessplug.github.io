@@ -88,7 +88,7 @@ content:
         link: missouristate.edu
 
   - title: A Little More About Me
-    layout: top-middle
+    layout: left
     content: | # this will include new lines to allow paragraphs
       Some other fun and exciting things I've dun did:
       [Built a neato 1965 Rambler](https://jzrambler.com/2022/10/04/sold.html)
