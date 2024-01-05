@@ -77,29 +77,24 @@ content:
       - layout: top-middle
         title: GitHub
         link: gitub.com
-        # link_text: github.com
         sub_title: Director of Technical Program Management
         caption: May 2016 - April 2021
         quote: >
-          Managed a team of fantastic Technical Project Managers.
         description: | # this will include new lines to allow paragraphs
       - layout: top-middle
         title: Sungevity
-        link: gitub.com
-        # link_text: github.com
-        sub_title: Director of Technical Program Management
-        caption: May 2016 - April 2021
+        link: https://en.wikipedia.org/wiki/Sungevity
+        link_text: Sungevity - Oakland California
+        sub_title: Software Project Manager / Scrum Master
+        caption: February 2015 - May 2016
         quote: >
-          Managed a team of fantastic Technical Project Managers.
         description: | # this will include new lines to allow paragraphs
       - layout: top-middle
         title: Sony Mobile
-        link: gitub.com
-        # link_text: github.com
-        sub_title: Director of Technical Program Management
-        caption: May 2016 - April 2021
+        link: sony.com
+        sub_title: Project Manager - Mobile
+        caption: October 2013 - February 2015
         quote: >
-          Managed a team of fantastic Technical Project Managers.
         description: | # this will include new lines to allow paragraphs
   
   - title: Education
