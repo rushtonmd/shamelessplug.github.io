@@ -9,7 +9,7 @@ version: 2
 name: Mark D Rushton
 title: Director of Software Engineering
 email: mark@rushtonmd.com
-website: rushtonmd.com
+# website: rushtonmd.com
 
 # Dark Mode (true/false/never)
 darkmode: false
