@@ -78,24 +78,22 @@ content:
                 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
-    content: 
-      - layout: left
-        title: Missouri University of Science and Technology
-        link: 
-        sub_title: [mst.edu](https://www.mst.edu)
-        caption:
-        quote: >
-          Master of Science, Systems Engineering
-        description: 
-      - layout: left
-        title: Missouri State University
-        link:
-        sub_title: [missouristate.edu](https://www.missouristate.edu) 
-        caption: May 2016 - April 2021
-        quote: >
-          Bachelor of Science, Mathematics and Computer Science
-        description: 
-          
+   content:
+       - layout: left
+         title: Missouri University of Science and Technology
+         sub_title: Master of Science, Systems Engineering
+         quote: >
+           Good school
+         description: | # this will include new lines to allow paragraphs
+           great Stuff
+       - layout: left
+         title: Missouri State University
+         sub_title: Bachelor of Science, Mathematics and Computer Science 
+         quote: >
+           Good school
+         description: | # this will include new lines to allow paragraphs
+           great Stuff
+           
   - title: A Little More About Me
     layout: text
     content: 
