@@ -87,8 +87,10 @@ content:
         sub_title: Bachelor of Science, Mathematics and Computer Science
         link: missouristate.edu
 
-  - title: A Little More About Me
-     layout: text
+  - title: Other Fun Stuff
+    layout: list
+    content: |
+      fun things
 
 # Footer
 footer_show_references: true
