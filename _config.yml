@@ -85,8 +85,8 @@ content:
         sub_title: 
         link: mst.edu
         quote: >
-          Master of Science, Systems Engineering
         description: | # this will include new lines to allow paragraphs
+          Master of Science, Systems Engineering
       - layout: left
         title: Harvard University
         caption: 2010 - 2013
