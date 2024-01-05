@@ -71,7 +71,24 @@ content:
           Courses: Project Management Essentials and Agile Power Practices
         description: | # this will include new lines to allow paragraphs
             I'm the instructor for 2 coarses: Project Management Essentials and Agile Power Practices. These courses, depending on the session, are in person, totally online, or a hybrid. Being able to help and connect with professionals and those new to project management allows me to stay connected to the needs of those who are seeking practical and applicable skills. This is an extremely fullfilling and humbling experience to be able to teach these courses.
-  - title: Previous Experience # Title for the section
+  
+  - title: Education
+    layout: list
+    content:
+      - layout: top-middle
+        title: Missouri University of Science and Technology
+        sub_title: Master of Science, Systems Engineering
+        link: mst.edu
+      - layout: top-middle
+        title: Missouri State University
+        sub_title: Bachelor of Science, Mathematics and Computer Science
+        link: missouristate.edu
+      - layout: top-middle
+        title: Certifications
+        sub_title: Bachelor of Science, Mathematics and Computer Science
+        link: missouristate.edu
+  
+  - title: Prior Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -137,30 +154,6 @@ content:
         caption: 1998 - 2001
         quote: >
         description: | # this will include new lines to allow paragraphs
-  
-  - title: Education
-    layout: list
-    content:
-      - layout: top-middle
-        title: Missouri University of Science and Technology
-        sub_title: Master of Science, Systems Engineering
-        link: mst.edu
-      - layout: top-middle
-        title: Missouri State University
-        sub_title: Bachelor of Science, Mathematics and Computer Science
-        link: missouristate.edu
-        
-  - title: Certifications
-    layout: list
-    content:
-      - layout: top-middle
-        title: Missouri University of Science and Technology
-        sub_title: Master of Science, Systems Engineering
-        link: mst.edu
-      - layout: top-middle
-        title: Missouri State University
-        sub_title: Bachelor of Science, Mathematics and Computer Science
-        link: missouristate.edu
         
   - title: Other Fun Stuff
     layout: list
