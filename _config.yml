@@ -81,18 +81,14 @@ content:
     content:
       - layout: left
         title: Missouri University of Science and Technology
-        sub_title: Master of Science, Systems Engineering
+        sub_title: [mst.edu](https://www.mst.edu)
         quote: >
-          Good school
-        description: | # this will include new lines to allow paragraphs
-          great Stuff
+          Master of Science, Systems Engineering
       - layout: left
         title: Missouri State University
-        sub_title: Bachelor of Science, Mathematics and Computer Science 
+        sub_title: [missouristate.edu](https://www.missouristate.edu) 
         quote: >
-          Good school
-        description: | # this will include new lines to allow paragraphs
-          great Stuff
+          Bachelor of Science, Mathematics and Computer Science
           
   - title: A Little More About Me
     layout: text
