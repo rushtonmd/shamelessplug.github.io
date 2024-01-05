@@ -78,7 +78,7 @@ content:
                 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
-    content:
+    content: 
       - layout: left
         title: Missouri University of Science and Technology
         link: 
@@ -86,7 +86,7 @@ content:
         caption:
         quote: >
           Master of Science, Systems Engineering
-        description: | # this will include new lines to allow paragraphs
+        description: 
       - layout: left
         title: Missouri State University
         link:
@@ -94,11 +94,11 @@ content:
         caption: May 2016 - April 2021
         quote: >
           Bachelor of Science, Mathematics and Computer Science
-        description: | # this will include new lines to allow paragraphs
+        description: 
           
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: 
       Some other fun and exciting things I've dun did:
       - [Built a neato 1965 Rambler](https://jzrambler.com/2022/10/04/sold.html)
       - [Converted a 1988 Suzuki Samurai to Electric](https://rushtonmd.github.io/88evsamurai.github.io/)
