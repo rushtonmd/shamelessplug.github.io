@@ -53,7 +53,7 @@ content:
     content:
       - layout: left
         title: GitHub
-        link: github.com
+        link: gitub.com
         # link_text: github.com
         sub_title: Director of Software Engineering
         caption: April 2021 - Present
@@ -65,7 +65,7 @@ content:
             Currently my team is embedded in the Copilot organization, enabling user management and billing capabilities to businesses and individuals wanting to use the cornucopia of AI products we offer.  
       - layout: left
         title: GitHub
-        link: github.com
+        link: gitub.com
         # link_text: github.com
         sub_title: Director of Technical Program Management
         caption: May 2016 - April 2021
@@ -75,16 +75,32 @@ content:
             My team was soely responsible for delivering extremely popular features such as math rendering in github, and the ability to render mermaid diagrams. Along with these features, we embarked on a 2 year project to deprecated a neglected service that had more security vulnerabilties than a sticky note with passwords on it. 
 
             Currently my team is embedded in the Copilot organization, enabling user management and billing capabilities to businesses and individuals wanting to use the cornucopia of AI products we offer.  
-  
+                
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Harvard University
+        caption: 2010 - 2013
+        sub_title: BSc Computer Science
+        quote: >
+          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
   - title: A Little More About Me
     layout: text
-    content: 
-      Some other fun and exciting things I've dun did:
-      - [Built a neato 1965 Rambler](https://jzrambler.com/2022/10/04/sold.html)
-      - [Converted a 1988 Suzuki Samurai to Electric](https://rushtonmd.github.io/88evsamurai.github.io/)
-      - [Did some hiking](https://www.alltrails.com/members/mark-rushton-20)
-      - [Teaching classes at UC San Diego Extension](https://extendedstudies.ucsd.edu/about-extension/mark-rushton)
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
+      Look at this cool image  
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
