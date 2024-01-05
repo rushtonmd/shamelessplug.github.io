@@ -31,9 +31,9 @@ linkedin_username: rushtonmd
 
 # Additional icon links
 additional_links:
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+- title: another link
+  icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+  url: https://rushtonmd.com/files/rushton_resume_2023.pdf
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -47,8 +47,8 @@ about_profile_image: images/cartoon-profile-photo-jan-2024-2.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am battle-scarred project and engineering manager living in sunny San Diego Californnia. My path has woven back and forth between being a developer and manager multiple times. My most noteworthy accomplishments arise from unraveling complex issues and guiding teams to forge remarkable creations. I am most content when surrounded by enthusiastic and witty people, driven by a strong passion for solving problems — that's when I'm truly in my element.
 
-
-
+  </br>
+  
   **Some neato stuff I dun did:** 
   
   [Built a 1965 Rambler American](https://jzrambler.com/2022/10/04/sold.html)
