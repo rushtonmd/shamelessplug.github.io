@@ -104,6 +104,39 @@ content:
         caption: August 2012 - October 2013
         quote: >
         description: | # this will include new lines to allow paragraphs
+      - layout: top-middle
+        title: Watts Water Technologies
+        link: watts.com
+        sub_title: Engineering Manager
+        caption: 2007 - 2012
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+      - layout: top-middle
+        title: Robert Half Technology
+        link: roberthalf.com
+        sub_title: Technical Recruiter
+        caption: 2006 - 2007
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+      - layout: top-middle
+        title: Watts Radiant
+        link: watts.com
+        sub_title: Software Developer / Design Assistant
+        caption: 2004 - 2006
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+      - layout: top-middle
+        title: Freelance Consultant, Programmer, AutoCAD
+        caption: 2001 - 2004
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+      - layout: top-middle
+        title: Black & Veatch
+        link: bv.com
+        sub_title: Software Developer / Intern
+        caption: 1998 - 2001
+        quote: >
+        description: | # this will include new lines to allow paragraphs
   
   - title: Education
     layout: list
