@@ -88,13 +88,13 @@ content:
         link: missouristate.edu
 
   - title: A Little More About Me
-    layout: text
+    layout: top-middle
     content: | # this will include new lines to allow paragraphs
       Some other fun and exciting things I've dun did:
-      - [Built a neato 1965 Rambler](https://jzrambler.com/2022/10/04/sold.html)
-      - [Converted a 1988 Suzuki Samurai to Electric](https://rushtonmd.github.io/88evsamurai.github.io/)
-      - [Did some hiking](https://www.alltrails.com/members/mark-rushton-20)
-      - [Teaching classes at UC San Diego Extension](https://extendedstudies.ucsd.edu/about-extension/mark-rushton)
+      [Built a neato 1965 Rambler](https://jzrambler.com/2022/10/04/sold.html)
+      [Converted a 1988 Suzuki Samurai to Electric](https://rushtonmd.github.io/88evsamurai.github.io/)
+      [Did some hiking](https://www.alltrails.com/members/mark-rushton-20)
+      [Teaching classes at UC San Diego Extension](https://extendedstudies.ucsd.edu/about-extension/mark-rushton)
 
 # Footer
 footer_show_references: true
