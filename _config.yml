@@ -72,9 +72,25 @@ content:
         quote: >
           Managed a team of fantastic Technical Project Managers.
         description: | # this will include new lines to allow paragraphs
-            My team was soely responsible for delivering extremely popular features such as math rendering in github, and the ability to render mermaid diagrams. Along with these features, we embarked on a 2 year project to deprecated a neglected service that had more security vulnerabilties than a sticky note with passwords on it. 
-
-            Currently my team is embedded in the Copilot organization, enabling user management and billing capabilities to businesses and individuals wanting to use the cornucopia of AI products we offer.  
+      - layout: top-middle
+        title: Sungevity
+        link: gitub.com
+        # link_text: github.com
+        sub_title: Director of Technical Program Management
+        caption: May 2016 - April 2021
+        quote: >
+          Managed a team of fantastic Technical Project Managers.
+        description: | # this will include new lines to allow paragraphs
+      - layout: top-middle
+        title: Sony Mobile
+        link: gitub.com
+        # link_text: github.com
+        sub_title: Director of Technical Program Management
+        caption: May 2016 - April 2021
+        quote: >
+          Managed a team of fantastic Technical Project Managers.
+        description: | # this will include new lines to allow paragraphs
+  
   - title: Education
     layout: list
     content:
