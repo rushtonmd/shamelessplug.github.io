@@ -86,7 +86,19 @@ content:
         title: Missouri State University
         sub_title: Bachelor of Science, Mathematics and Computer Science
         link: missouristate.edu
-
+        
+  - title: Certifications
+    layout: list
+    content:
+      - layout: top-middle
+        title: Missouri University of Science and Technology
+        sub_title: Master of Science, Systems Engineering
+        link: mst.edu
+      - layout: top-middle
+        title: Missouri State University
+        sub_title: Bachelor of Science, Mathematics and Computer Science
+        link: missouristate.edu
+        
   - title: Other Fun Stuff
     layout: list
     content: |
