@@ -45,7 +45,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/cartoon-profile-photo-jan-2024-2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a software engineering leader living in sunny San Diego, Californnia. My path has woven back and forth between being a developer and manager multiple times. My most noteworthy accomplishments arise from unraveling complex issues and guiding teams to forge remarkable creations. I am most content when surrounded by enthusiastic and witty people, driven by a strong passion for solving problems — that's when I'm truly in my element.
+  I'm a software engineering leader living in sunny San Diego, California. My path has woven back and forth between being a developer and manager multiple times. My most noteworthy accomplishments arise from unraveling complex issues and guiding teams to forge remarkable creations. I am most content when surrounded by enthusiastic and witty people, driven by a strong passion for solving problems — that's when I'm truly in my element.
 
   <br>
   
@@ -71,7 +71,7 @@ content:
         quote: >
           Built a team from the ground up with the prime directive of deprecating old friends and building amazing products.
         description: | # this will include new lines to allow paragraphs
-            My team was soely responsible for delivering extremely popular features such as math rendering in github, and the ability to render mermaid diagrams. Along with these features, we embarked on a 2 year project to deprecated a neglected service that had more security vulnerabilties than a sticky note with passwords on it. 
+            My team was responsible for delivering extremely popular features such as math rendering in GitHub, and the ability to render mermaid diagrams. Along with these features, we embarked on a 2 year project to deprecated a neglected service that had more security vulnerabilities than a sticky note with passwords on it. 
 
             Currently my team is embedded in the Copilot organization, enabling user management and billing capabilities to businesses and individuals wanting to use the cornucopia of AI products we offer.  
       - layout: left
@@ -82,7 +82,7 @@ content:
         quote: >
           Courses: Project Management Essentials and Agile Power Practices
         description: | # this will include new lines to allow paragraphs
-            I'm the instructor for 2 coarses: Project Management Essentials and Agile Power Practices. These courses, depending on the session, are in person, totally online, or a hybrid. Being able to help and connect with professionals and those new to project management allows me to stay connected to the needs of those who are seeking practical and applicable skills. This is an extremely fullfilling and humbling experience to be able to teach these courses.
+            I'm the instructor for 2 courses: Project Management Essentials and Agile Power Practices. These courses, depending on the session, are in person, totally online, or a hybrid. Being able to help and connect with professionals and those new to project management allows me to stay connected to the needs of those who are seeking practical and applicable skills. This is an extremely fulfilling and humbling experience to be able to teach these courses.
   
   - title: Education
     layout: list
