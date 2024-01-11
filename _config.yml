@@ -69,7 +69,7 @@ content:
         sub_title: Director of Software Engineering
         caption: April 2021 - Present
         quote: >
-          Built a team from the ground up with the prime directive of deprecating old friends and building amazing products.
+          Built a team from the ground up with the prime directive of deprecating old services and building amazing products.
         description: | # this will include new lines to allow paragraphs
             My team was responsible for delivering extremely popular features such as math rendering in GitHub, and the ability to render mermaid diagrams. Along with these features, we embarked on a 2 year project to deprecated a neglected service that had more security vulnerabilities than a sticky note with passwords on it. 
 
